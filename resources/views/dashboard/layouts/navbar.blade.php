@@ -170,7 +170,7 @@
             <div class="col-sm-6">
                 <ol class="breadcrumb float-sm-right">
                     <li class="breadcrumb-item"><a href="#">{{ __('dashboard/navbar.home') }}</a></li>
-                    <li class="breadcrumb-item active">@yield('title')</li>
+                    <li class="breadcrumb-item active">{{ __('dashboard/navbar.dashboard') }}</li>
                 </ol>
             </div><!-- /.col -->
         </div><!-- /.row -->
