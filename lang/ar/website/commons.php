@@ -1,0 +1,28 @@
+<?php
+    return[
+        'home' => 'الرئيسية',
+        'books'=>'الكتب',
+        'purchasable_books'=>'كتب ورقية للشراء',
+        'downloadable_books'=>'كتب للتحميل',
+        'search'=>'البحث عن كتب',
+        'oldest'=>'أقدم الكتب',
+        'newest'=>'احدث الكتب',
+        'highest'=>'الأعلى سعرا',
+        'lowest'=>'الأقل سعرا',
+        'a_z'=>'Name A to Z',
+        'z_a'=>'Name Z to A',
+        'details'=>'عرض التفاصيل',
+        'author'=>'المؤلف',
+        'category'=>'القسم',
+        'released'=>'تاريخ النشر',
+        'publisher'=>'دار النشر',
+        'description'=>'الوصف',
+        'may_like'=>'ربما يعجبك ايضا',
+        'price'=>'السعر',
+        'quantity'=>'الكمية',
+        'total'=>'السعر ',
+        'remove'=>'حذف',
+        'book'=>'الكتاب',
+        'add_cart'=>'اضافة الى العربة',
+    ]
+?>

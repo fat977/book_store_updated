@@ -1,0 +1,28 @@
+<?php
+    return[
+        'home' => 'Home',
+        'books'=>'Books',
+        'purchasable_books'=>'Purchasable Books',
+        'downloadable_books'=>'Downloadable Books',
+        'search'=>'Search for books',
+        'oldest'=>'Oldest Book',
+        'newest'=>'Newest Book',
+        'highest'=>'Highest Price',
+        'lowest'=>'Lowest Price',
+        'a_z'=>'Name A to Z',
+        'z_a'=>'Name Z to A',
+        'details'=>'View Details',
+        'author'=>'Author',
+        'category'=>'Category',
+        'released'=>'Released Date',
+        'publisher'=>'Publisher',
+        'description'=>'Description',
+        'may_like'=>'You May Also Like',
+        'price'=>'Price',
+        'quantity'=>'Quantity',
+        'total'=>'Total',
+        'remove'=>'Remove',
+        'book'=>'Book',
+        'add_cart'=>'Add To Cart',
+    ]
+?>
